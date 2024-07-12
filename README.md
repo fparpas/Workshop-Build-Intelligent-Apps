@@ -39,21 +39,21 @@ Upon completing the workshop, participants will be able to:
 - [Build and deploy a question and answer copilot with prompt flow in Azure AI Studio - Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/deploy-copilot-ai-studio)
 - [How to quickly start with Semantic Kernel | Microsoft Learn]()
 
-## Other Self Study material
+## Self Study material
 - [Azure AI Studio documentation | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/)
 - [Overview of AI app development | Microsoft Learn](https://learn.microsoft.com/en-us/azure/developer/ai/azure-ai-for-developers?tabs=dotnet)
 - [Develop .NET applications with AI features - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/ai/get-started/dotnet-ai-overview)
 - [RAG and generative AI - Azure AI Search | Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
 - [Using your data with Azure OpenAI Service - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search)
 
-## Other Self Study training material
+## Self Study training material
 - [Microsoft Azure AI Fundamentals: Generative AI - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/)
 - [Develop Generative AI solutions with Azure OpenAI Service - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
 - [Get started with Azure AI Services - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/get-started-azure-ai/)
 
-
 # Remarks
 - Please note that the content of this workshop may become outdated, as Azure AI is a rapidly evolving platform. We recommend staying engaged with the Azure AI community for the most current updates and practices.
 - Most of the content on this page was generated with the assistance of Microsoft 365 Copilot :blush:
+- 
 # Contributors
 Phanis Parpas
