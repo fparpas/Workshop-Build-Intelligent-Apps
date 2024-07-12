@@ -2,8 +2,8 @@
 This Hands-on training is designed for AI Engineers, Developers, Solution Architects and who are eager to learn how to harness the power of Azure OpenAI to enhance their applications with RAG.
 The following sessions will be covered:
 
-- **Implement Retrieval Augmented Generation (RAG) with Azure OpenAI:** Dive into the world of RAG and learn how to enhance your AI applications by integrating Azure OpenAI’s capabilities. This session will guide you through the process of implementing RAG with Azure AI Search, enabling your applications to leverage external data sources for more grounded and contextually relevant responses. 12345
-- **Build a QnA copilot with prompt flow in Azure AI Studio:** Discover how to create a responsive QnA system using prompt flow, allowing for intuitive and efficient user interactions with your AI solutions. 678
+- **Implement Retrieval Augmented Generation (RAG) with Azure OpenAI:** Dive into the world of RAG and learn how to enhance your AI applications by integrating Azure OpenAI’s capabilities. This session will guide you through the process of implementing RAG with Azure AI Search, enabling your applications to leverage external data sources for more grounded and contextually relevant responses.
+- **Build a QnA copilot with prompt flow in Azure AI Studio:** Discover how to create a responsive QnA system using prompt flow, allowing for intuitive and efficient user interactions with your AI solutions.
 - **Build intelligent applications with Semantic Kernel (C# or Python):** Unlock the potential of Semantic Kernel in developing intelligent applications. Whether you prefer C# or Python, this session will provide you with the knowledge to incorporate Semantic Kernel into your applications, facilitating seamless integration of AI prompts with conventional programming languages for smarter, more responsive applications.
   
 # Learning Objectives
