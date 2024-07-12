@@ -37,10 +37,8 @@ Upon completing the workshop, participants will be able to:
 - [Build and deploy a question and answer copilot with prompt flow in Azure AI Studio - Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/deploy-copilot-ai-studio)
 - [How to quickly start with Semantic Kernel | Microsoft Learn]()
 
-
-
-
-
+# Remarks
+Please note that the content of this workshop is subject to change, as Azure AI is a rapidly evolving platform. The technologies and methods discussed may be updated to reflect the latest advancements in the field, ensuring that our participants receive the most current and relevant information.
 
 # Contributors
 Phanis Parpas
