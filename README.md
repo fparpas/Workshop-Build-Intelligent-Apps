@@ -38,7 +38,7 @@ Upon completing the workshop, participants will be able to:
 - [How to quickly start with Semantic Kernel | Microsoft Learn]()
 
 # Remarks
-Please note that the content of this workshop is subject to change, as Azure AI is a rapidly evolving platform. The technologies and methods discussed may be updated to reflect the latest advancements in the field, ensuring that our participants receive the most current and relevant information.
-
+- Please note that the content of this workshop may become outdated, as Azure AI is a rapidly evolving platform. We recommend staying engaged with the Azure AI community for the most current updates and practices.
+- Most of the content on this page was generated with the assistance of Microsoft 365 Copilot :)
 # Contributors
 Phanis Parpas
