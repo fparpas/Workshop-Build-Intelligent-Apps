@@ -26,3 +26,9 @@ Upon completing the workshop, participants will be able to:
 - Developers
 - Solution Architects
 
+# Repository Contents
+- ./Student
+  - Challenge Guide for Students
+
+# Contributors
+Phanis Parpas
