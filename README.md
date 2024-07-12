@@ -30,5 +30,17 @@ Upon completing the workshop, participants will be able to:
 - ./Student
   - Challenge Guide for Students
 
+# References
+- Deploy an Enterprise Chat web app in the Azure AI Studio playground - Azure AI Studio | Microsoft Learn![image](https://github.com/user-attachments/assets/0277f13e-41e0-43aa-a4f9-a337d3089a7d)
+- Implement Retrieval Augmented Generation (RAG) with Azure OpenAI ![image](https://github.com/user-attachments/assets/1662959f-4754-4d9f-aecf-2bb94061623c)
+- Use your own data with Azure OpenAI Service - Azure OpenAI | Microsoft Learn![image](https://github.com/user-attachments/assets/1cae674e-2a04-40ba-a922-7301d25f1eee)
+- Build and deploy a question and answer copilot with prompt flow in Azure AI Studio - Azure AI Studio | Microsoft Learn![image](https://github.com/user-attachments/assets/e489da36-a128-4360-8378-bd317d64af87)
+- How to quickly start with Semantic Kernel | Microsoft Learn![image](https://github.com/user-attachments/assets/64591c22-bac5-4eee-904c-8cd17537623d)
+
+
+
+
+
+
 # Contributors
 Phanis Parpas
