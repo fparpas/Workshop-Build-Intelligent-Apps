@@ -39,6 +39,6 @@ Upon completing the workshop, participants will be able to:
 
 # Remarks
 - Please note that the content of this workshop may become outdated, as Azure AI is a rapidly evolving platform. We recommend staying engaged with the Azure AI community for the most current updates and practices.
-- Most of the content on this page was generated with the assistance of Microsoft 365 Copilot :)
+- Most of the content on this page was generated with the assistance of Microsoft 365 Copilot :blush:
 # Contributors
 Phanis Parpas
