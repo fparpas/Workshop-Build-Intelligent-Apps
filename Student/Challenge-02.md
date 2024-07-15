@@ -4,14 +4,28 @@
  [< Previous Challenge](./Challenge-01.md) - **[Home](../README.md)** - [Next Challenge >](./Challenge-03.md) - 
 
 ## Introduction
+This hand on session will gide you through the process of building, configuring, and deploying a copilot with prompt flow
 
 ## Description
+You will use generative AI and prompt flow to build, configure, and deploy a copilot for your retail company called Contoso. Your retail company specializes in outdoor camping gear and clothing.
+
+The copilot should answer questions about your products and services. It should also answer questions about your customers. For example, the copilot can answer questions such as "How much do the TrailWalker hiking shoes cost?" and "How many TrailWalker hiking shoes did Daniel Wilson buy?".
+
+You should complete the following steps in this [tutorial](https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/deploy-copilot-ai-studio):
+1. Add your data to the chat playground.
+2. Create a prompt flow from the playground.
+3. Customize prompt flow with multiple data sources.
+4. Evaluate the flow using a question and answer evaluation dataset.
+5. Deploy the flow for consumption.
 
 ## Success Criteria
-
-## Tips
-
+- Demonstrate that you can chat within prompt flow with product and customer info. Get answers to questions such as "How many TrailWalker hiking shoes did Daniel Wilson buy?"
+- Evaluate the flow using a question and answer evaluation dataset
+- Show the evaluation status and results
+- Demonstarte that you deploy the flow and you can use the REST endpoint or the SDK to use the deployed flow.
+  
 ## Learning Resources
+[Build and deploy a question and answer copilot with prompt flow in Azure AI Studio - Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/deploy-copilot-ai-studio)
 
  [< Previous Challenge](./Challenge-01.md) - **[Home](../README.md)** - [Next Challenge >](./Challenge-03.md) - 
 
