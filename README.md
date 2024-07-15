@@ -1,4 +1,4 @@
-# Building Intelligent Apps Workshop
+# Workshop - Building Intelligent Apps 
 This Hands-on workshop is designed for AI Engineers, Developers, Solution Architects and who are eager to learn how to harness the power of Azure OpenAI and build next gen intelligent apps.
 The following sessions will be covered:
 
