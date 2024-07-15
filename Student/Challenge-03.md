@@ -3,7 +3,7 @@
  [< Previous Challenge](./Challenge-02.md) - **[Home](../README.md)**
 
 ## Introduction
-This hand on session will gide you through the process of building, configuring, and deploying a copilot with prompt flow
+This hand on session will guide you through the process of building, configuring, and deploying a copilot with prompt flow
 
 ## Description
 You will use generative AI and prompt flow to build, configure, and deploy a copilot for your retail company called Contoso. Your retail company specializes in outdoor camping gear and clothing.
