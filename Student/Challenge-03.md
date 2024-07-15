@@ -32,5 +32,3 @@ You should complete the following steps in this [tutorial](https://learn.microso
 [How to evaluate generative AI apps with Azure AI Studio - Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/evaluate-generative-ai-app)
 [How to view evaluation results in Azure AI Studio - Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/evaluate-flow-results)
 
- [< Previous Challenge](./Challenge-02.md) - **[Home](../README.md)**
-
