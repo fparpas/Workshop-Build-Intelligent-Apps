@@ -13,5 +13,5 @@
 
 ## Learning Resources
 
- [< Previous Challenge](./Challenge-02.md) - **[Home](../README.md)** - [Next Challenge >](./Challenge-03.md) - 
+ [< Previous Challenge](./Challenge-01.md) - **[Home](../README.md)** - [Next Challenge >](./Challenge-03.md) - 
 
