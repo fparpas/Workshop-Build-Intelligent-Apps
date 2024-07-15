@@ -7,7 +7,7 @@
 - Your laptop: Win, MacOS or Linux OR A development machine that you have **administrator rights**.
 - Active Azure Subscription with **Contributor access** to create or modify resources and permissions.
 - Access granted to Azure OpenAI in the desired Azure subscription.
-Currently, access to this service is granted only by application. You can apply for access to Azure OpenAI by completing the [form](https://aka.ms/oai/access).
+Currently, access to this service is granted only by application. You can apply for access to Azure OpenAI by completing the [form](https://aka.ms/oai/access). Ensure that you register for approval to access and use the Azure OpenAI models before attending the workshop. The approval process may take up to 48 hours to copmlete.
 
 ## Introduction
 
