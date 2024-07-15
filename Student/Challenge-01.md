@@ -7,9 +7,9 @@ This hands-on session will guide you through the process of integrating your own
 
 ## Description
 
-[Create a project and use the chat playground in Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/get-started-playground#deploy-a-chat-model)
-[Deploy an Enterprise Chat web app](https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/deploy-chat-web-app)
-[Create .NET core application and build your first intelligent app](https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart?pivots=programming-language-csharp&tabs=command-line%2Cpython-new#create-a-new-net-core-application)
+- [Create a project and use the chat playground in Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/get-started-playground#deploy-a-chat-model)
+- [Deploy an Enterprise Chat web app](https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/deploy-chat-web-app)
+- [Create .NET core application and build your first intelligent app](https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart?pivots=programming-language-csharp&tabs=command-line%2Cpython-new#create-a-new-net-core-application)
 
 ## Success Criteria
 
