@@ -8,7 +8,7 @@ This hands-on session will guide you through the process of integrating your own
 ## Description
 You’ll start by creating a project in Azure AI Studio, where you’ll explore the chat playground to interact with AI models and customize chat interactions. Next, you’ll set up the environment and deploy an enterprise-grade chat web app, integrating it with Azure OpenAI for intelligent responses. Finally, you’ll dive into .NET Core development, creating a simple application and adding intelligence using Azure OpenAI.
 
-You should complete the following steps:
+You should complete the following steps in reference guides:
 
 - [Create a project and use the chat playground in Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/get-started-playground#deploy-a-chat-model)
   - Create an Azure AI Studio project.
