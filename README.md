@@ -1,5 +1,5 @@
 # Building Intelligent Apps Workshop
-This Hands-on training is designed for AI Engineers, Developers, Solution Architects and who are eager to learn how to harness the power of Azure OpenAI to enhance their applications with RAG.
+This Hands-on workshop is designed for AI Engineers, Developers, Solution Architects and who are eager to learn how to harness the power of Azure OpenAI to enhance their applications with RAG.
 The following sessions will be covered:
 
 1. [**Setup and prepare Evironment:**](/Student/Challenge-00.md) Necessary setup for the hands-on activities. This includes setting up an Azure subscription, accessing Azure OpenAI services, and installing the required development tools. This initial session is crucial to ensure that all participants are well-prepared and can fully engage with the workshop's content.
