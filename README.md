@@ -33,7 +33,6 @@ Upon completing the workshop, participants will be able to:
   - Challenge Guide for Students
 
 # References
-## For workshop content
 
 - [Create a project and use the chat playground in Azure AI Studio - Azure AI Studio | Microsoft Learnage](https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/get-started-playground)
 - [Deploy an Enterprise Chat web app in the Azure AI Studio playground - Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/deploy-chat-web-app)
@@ -42,14 +41,15 @@ Upon completing the workshop, participants will be able to:
 - [Build and deploy a question and answer copilot with prompt flow in Azure AI Studio - Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/deploy-copilot-ai-studio)
 - [How to quickly start with Semantic Kernel | Microsoft Learn]()
 
-## Self Study material
+# Other material
+## Study material
 - [Azure AI Studio documentation | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/)
 - [Overview of AI app development | Microsoft Learn](https://learn.microsoft.com/en-us/azure/developer/ai/azure-ai-for-developers?tabs=dotnet)
 - [Develop .NET applications with AI features - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/ai/get-started/dotnet-ai-overview)
 - [RAG and generative AI - Azure AI Search | Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
 - [Using your data with Azure OpenAI Service - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search)
 
-## Self Study training material
+## Training material
 - [Microsoft Azure AI Fundamentals: Generative AI - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/)
 - [Develop Generative AI solutions with Azure OpenAI Service - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
 - [Get started with Azure AI Services - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/get-started-azure-ai/)
