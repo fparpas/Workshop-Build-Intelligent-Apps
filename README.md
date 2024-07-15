@@ -20,7 +20,7 @@ Upon completing the workshop, participants will be able to:
 - Basic understanding of AI and generative models.
 - Experience in programming with C# or Python
 - Visual Studio Code or Visual Studio
-- Azure Subscription with OpenAI access. You can apply for access to Azure OpenAI by completing this [form](https://aka.ms/oai/access)
+- Azure Subscription with OpenAI access. You can apply for access to Azure OpenAI by completing this [form](https://aka.ms/oai/access). Ensure that you register for approval to access and use the Azure OpenAI models before attending the workshop. The approval process may take up to 48 hours to copmlete.
 
 # Target Audience
 - AI Engineers
