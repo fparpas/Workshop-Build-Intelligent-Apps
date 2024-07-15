@@ -7,6 +7,7 @@ The following sessions will be covered:
 1. [**Build intelligent applications with Semantic Kernel (C# or Python):**](/Student/Challenge-02.md) Unlock the potential of Semantic Kernel in developing intelligent applications. Whether you prefer C# or Python, this session will provide you with the knowledge to incorporate Semantic Kernel into your applications, facilitating seamless integration of AI prompts with conventional programming languages for smarter, more responsive applications.
 1. [**Build a QnA copilot with prompt flow in Azure AI Studio (Optional):**](/Student/Challenge-03.md) Discover how to create a responsive QnA system using prompt flow, allowing for intuitive and efficient user interactions with your AI solutions.
 
+This workshop requires 4-6 hours to complete. It is a team based activity where students work in groups of 3-5 people to complete every workshop.
   
 # Learning Objectives
 Upon completing the workshop, participants will be able to:
