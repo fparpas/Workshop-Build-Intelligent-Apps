@@ -1,6 +1,6 @@
 # Challenge 00 - Setup
 
-**[Home](../README.md)** - [Next Challenge >](./Challenge_01.md)
+**[Home](../README.md)** - [Next Challenge >](./Challenge-01.md)
 
 ## Pre-requisites
 
@@ -26,4 +26,4 @@ Setup and configure the following tools
 - You should be able to log in to the Azure Portal.
 - You should be able to clone this repository to your machine.
 
-**[Home](../README.md)** - [Next Challenge >](./Challenge_01.md)
+**[Home](../README.md)** - [Next Challenge >](./Challenge-01.md)
