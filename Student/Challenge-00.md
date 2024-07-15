@@ -24,7 +24,6 @@ Setup and configure the following tools
 ## Success Criteria
 
 - You should be able to log in to the Azure Portal.
-- You should be able to clone this repository to your machine.
 - You should be able to [deploy an Azure OpenAI model](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-openai#deploy-an-azure-openai-model-from-the-model-catalog) from the model catalog. Do not create one, just check if you have the option to deploy an Azure Open AI model.
 
 **[Home](../README.md)** - [Next Challenge >](./Challenge-01.md)
