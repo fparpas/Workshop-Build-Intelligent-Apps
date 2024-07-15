@@ -25,7 +25,13 @@ You should complete the following steps in this [tutorial](https://learn.microso
 - Demonstarte that you deploy the flow and you can use the REST endpoint or the SDK to use the deployed flow.
   
 ## Learning Resources
-[Build and deploy a question and answer copilot with prompt flow in Azure AI Studio - Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/deploy-copilot-ai-studio)
+### Prompt flow
+[Prompt flow in Azure AI Studio - Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow)
+[Work with Azure AI Studio projects in VS Code - Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/vscode)
+[Deploy a flow as a managed online endpoint for real-time inference - Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/flow-deploy)
+### Evaluate models in Azure AI Studio
+[How to evaluate generative AI apps with Azure AI Studio - Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/evaluate-generative-ai-app)
+[How to view evaluation results in Azure AI Studio - Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/evaluate-flow-results)
 
  [< Previous Challenge](./Challenge-01.md) - **[Home](../README.md)** - [Next Challenge >](./Challenge-03.md) - 
 
