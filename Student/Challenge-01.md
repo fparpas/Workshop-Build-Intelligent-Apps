@@ -23,6 +23,10 @@ You should complete the following steps:
 
 ## Success Criteria
 
+- Demonstate that you can chat with your own data in AI Studio Chat Playground
+- Deploy the web app and demonstate that you can chat on your own data in the deployed app
+- Demonstate that you can chat with your own data in a .NET Console application
+- 
 ## Learning Resources
 ### Azure AI Studio
 [Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/what-is-ai-studio)
