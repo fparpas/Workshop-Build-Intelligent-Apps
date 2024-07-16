@@ -23,7 +23,7 @@ You should complete the following steps in the [reference guide](https://learn.m
 
 - Ensure that your application is running and your able to debug the application
 - Set a break point in one of the plugins and hit the break point with a user prompt
-- Create a pugin to retrieve data from external source such us Azure AI Search and generate grounded responses.
+- Create a [pugin to retrieve data from external source](https://learn.microsoft.com/en-us/semantic-kernel/concepts/plugins/using-data-retrieval-functions-for-rag) such us Azure AI Search and generate grounded responses.
 
 ## Learning Resources
 - [Introduction to Semantic Kernel | Microsoft Learn](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
