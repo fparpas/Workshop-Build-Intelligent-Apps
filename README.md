@@ -57,6 +57,6 @@ Upon completing the workshop, participants will be able to:
 # Repository Contents
 - ./Student
   - Challenge Guide for Students
-  - 
+    
 # Contributors
 Phanis Parpas
