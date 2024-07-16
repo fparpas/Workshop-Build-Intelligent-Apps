@@ -29,7 +29,7 @@ You should complete the following steps in the reference guides:
   
 ## Learning Resources
 ### Azure AI Studio
-[Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/what-is-ai-studio)
+- [Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/what-is-ai-studio)
 ### Azure AI Search
 - [RAG and generative AI - Azure AI Search | Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
 - [Hybrid search - Azure AI Search | Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/hybrid-search-overview)
