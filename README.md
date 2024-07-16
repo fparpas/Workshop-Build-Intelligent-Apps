@@ -29,12 +29,7 @@ Upon completing the workshop, participants will be able to:
 - Developers
 - Solution Architects
 
-# Repository Contents
-- ./Student
-  - Challenge Guide for Students
-
 # References
-
 - [Create a project and use the chat playground in Azure AI Studio - Azure AI Studio | Microsoft Learnage](https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/get-started-playground)
 - [Deploy an Enterprise Chat web app in the Azure AI Studio playground - Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/deploy-chat-web-app)
 - [Implement Retrieval Augmented Generation (RAG) with Azure OpenAI](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/06-use-own-data.html)
@@ -59,5 +54,9 @@ Upon completing the workshop, participants will be able to:
 - Please note that the content of this workshop may become outdated, as Azure AI is a rapidly evolving platform. We recommend staying engaged with the Azure AI community for the most current updates and practices.
 - Most of the content on this page was generated with the assistance of Microsoft 365 Copilot :blush:
 
+# Repository Contents
+- ./Student
+  - Challenge Guide for Students
+  - 
 # Contributors
 Phanis Parpas
