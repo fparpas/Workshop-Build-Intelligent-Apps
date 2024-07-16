@@ -11,7 +11,7 @@ Currently, access to this service is granted only by application. You can apply 
 
 ## Introduction
 
-In this challenge you will setup your computer and cloud environment with the minimum required tools.
+In this session you will setup your computer and cloud environment with the minimum required tools.
 
 ## Description
 
