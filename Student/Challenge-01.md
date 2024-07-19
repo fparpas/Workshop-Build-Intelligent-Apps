@@ -10,7 +10,7 @@ You’ll start by creating a project in Azure AI Studio, where you’ll explore 
 
 You should complete the following steps in the reference guides:
 
-- [Create a project and use the chat playground in Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/get-started-playground#deploy-a-chat-model)
+- [Create a project and use the chat playground in Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/get-started-playground)
   - Create an Azure AI Studio project.
   - Deploy an Azure OpenAI model.
   - Chat in the playground without your data.
