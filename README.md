@@ -49,6 +49,7 @@ Upon completing the workshop, participants will be able to:
 - [Microsoft Azure AI Fundamentals: Generative AI - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/)
 - [Develop Generative AI solutions with Azure OpenAI Service - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
 - [Get started with Azure AI Services - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/get-started-azure-ai/)
+- [Develop AI agents using Azure OpenAI and the Semantic Kernel SDK - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure-open-ai-semantic-kernel-sdk/)
 
 # Remarks
 - Please note that the content of this workshop may become outdated, as Azure AI is a rapidly evolving platform. We recommend staying engaged with the Azure AI community for the most current updates and practices.
