@@ -19,7 +19,7 @@ You should complete the following steps in the [reference guide](https://learn.m
 - Give an AI agent the ability to run your code
 - Watch the AI create plans on the fly
 
-After completing the above you should create a [plugin to retrieve data from external source](https://learn.microsoft.com/en-us/semantic-kernel/concepts/plugins/using-data-retrieval-functions-for-rag) such us Azure AI Search and generate grounded responses.
+After completing the above you should create a [plugin to retrieve data from external source](https://learn.microsoft.com/en-us/semantic-kernel/concepts/plugins/using-data-retrieval-functions-for-rag) such us Azure AI Search and generate grounded responses with semantic search.
 ## Success Criteria
 
 - Ensure that your application is running and your able to debug the application
