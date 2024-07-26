@@ -3,7 +3,9 @@
  [< Previous Challenge](./Challenge-02.md) - **[Home](../README.md)**
 
 ## Introduction
-This hand on session will guide you through the process of building, configuring, and deploying a copilot with prompt flow
+This hand on session will guide you through the process of building, configuring, and deploying a copilot with prompt flow.
+
+Prompt flow is a development tool designed to streamline the entire development cycle of AI applications powered by Large Language Models (LLMs). Prompt flow provides a comprehensive solution that simplifies the process of prototyping, experimenting, iterating, and deploying your AI applications.
 
 ## Description
 You will use generative AI and prompt flow to build, configure, and deploy a copilot for your retail company called Contoso. Your retail company specializes in outdoor camping gear and clothing.
